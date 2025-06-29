@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+560d050c9448e49ee4abfa75abe13d3caa3a097c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d59ebacd48aebc3e40a6c8cdff6b5976f481bcce")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

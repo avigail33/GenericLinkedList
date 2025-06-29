@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
+      "projectUniqueName": "C:\\code\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
       "projectName": "GenericLinkedList",
-      "projectPath": "C:\\code\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
+      "projectPath": "C:\\code\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\GenericLinkedList\\GenericLinkedList\\obj\\",
+      "outputPath": "C:\\code\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
